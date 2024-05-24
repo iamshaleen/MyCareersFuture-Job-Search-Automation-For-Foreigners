@@ -16,6 +16,7 @@ How to use and what to modify in the script:
    receiver_email = 'recepient@gmail.com'
    password = 'your app specific password here' # Create one via (https://myaccount.google.com/apppasswords) and add it in the script
 4. Save the script and run it using the command below:
+   
    python3 <script-name.py>
 
 Note: Works best when run every day. (Helps to not miss out on new job postings)
