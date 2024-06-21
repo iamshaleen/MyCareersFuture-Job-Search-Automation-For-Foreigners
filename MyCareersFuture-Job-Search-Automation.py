@@ -179,7 +179,7 @@ def send_api_requests(api_requests):
             #print(results)
         else:
             print(f"Failed to fetch data from {request['url']}")
-    return results
+    return list(set(results))
 
 # Step 3: Send API requests and fetch results
 api_results = send_api_requests(api_requests)
