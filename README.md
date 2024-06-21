@@ -10,7 +10,7 @@ What the script does:
 How to use and what to modify in the script:
 
 1. In "api_requests" array keep only as many API requets required.
-2. Modify the value of the "search" key in "payload" for all your API requests.
+2. Modify the value of the "search" key in "payload" for all your API requests. Modify the "categories" value or remove it entirely if not required.
 3. In the send_email function, update the following:
    sender_email = 'sender@gmail.com'
    receiver_email = 'recepient@gmail.com'
