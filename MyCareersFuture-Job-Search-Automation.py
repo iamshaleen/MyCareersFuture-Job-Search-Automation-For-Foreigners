@@ -11,7 +11,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -28,7 +29,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -45,7 +47,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -62,7 +65,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -79,7 +83,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -96,7 +101,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -113,7 +119,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -130,7 +137,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
@@ -147,7 +155,8 @@ api_requests = [
         'url': 'https://api.mycareersfuture.gov.sg/v2/search?limit=20&page=0',
         'headers': {
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36',
+            'Host': 'api.mycareersfuture.gov.sg',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6422.60 Safari/537.36',
             'Mcf-Client': 'jobseeker',
             'Origin': 'https://www.mycareersfuture.gov.sg'
         },
